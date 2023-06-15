@@ -1,0 +1,15 @@
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\bin\Debug\net6.0-windows\SepararColorRGB.exe
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\bin\Debug\net6.0-windows\SepararColorRGB.deps.json
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\bin\Debug\net6.0-windows\SepararColorRGB.runtimeconfig.json
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\bin\Debug\net6.0-windows\SepararColorRGB.dll
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\bin\Debug\net6.0-windows\ref\SepararColorRGB.dll
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\bin\Debug\net6.0-windows\SepararColorRGB.pdb
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.csproj.AssemblyReference.cache
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.AssemblyInfoInputs.cache
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.AssemblyInfo.cs
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.csproj.CoreCompileInputs.cache
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.dll
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\ref\SepararColorRGB.dll
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.pdb
+D:\Cristian\Documents\6to semestre\Graficacion\SepararColorRGB\obj\Debug\net6.0-windows\SepararColorRGB.genruntimeconfig.cache
